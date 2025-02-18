@@ -1,6 +1,5 @@
 #![allow(dead_code)]
 use core::fmt;
-use fmt::Arguments;
 use lazy_static::lazy_static;
 use spin::Mutex;
 use volatile::Volatile;
